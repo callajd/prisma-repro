@@ -1,6 +1,6 @@
 # prisma-repro
 
-Minimal repro for issue with new 'prisma-client' generator (Prisma v6.10.1)
+Minimal repro for issue with new **prisma-client** generator (**prisma@6.10.1**, **@prisma/client@6.10.1**)
 
 Followed installation instructions from [here](https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases-typescript-postgresql).
 
